@@ -1,4 +1,6 @@
+.DS_Store
 **/.DS_Store
+note.txt
 node_modules/
 package-lock.json
 server.log
